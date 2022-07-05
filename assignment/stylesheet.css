@@ -1,8 +1,16 @@
-body{
-    background-color: indianred;
+main{
+    background-color: lightgrey;
 }
 
 header{
     background-color: darkblue;
-    
+    text-align: center;
+    color: lightsteelblue;
+}
+
+body{
+    background-image: url(/assignment/record.png);
+    background-repeat: repeat;
+    margin: 0;
+    padding: 1em;
 }
